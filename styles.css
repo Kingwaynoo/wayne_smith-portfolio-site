@@ -29,7 +29,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+.nav-tag {
   width: 100%;
   background: white;
   min-height: 30px;
@@ -46,7 +46,7 @@ a:hover {
   padding: 0;
 }
 
-.nav .name {
+.nav .logo {
     display: block;
     margin-right: auto;
     color: black;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   box-shadow: 5px 10px rgba(0,0,0,0.5);
   padding: 10px 40px 10px 40px;
 }
-.card {
+section {
   margin: 30px;
   padding: 20px 40px 40px;
   width: 100%;
@@ -110,7 +110,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+section:hover {
   border-color: #ff99ff;
 }
 
